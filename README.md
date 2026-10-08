@@ -17,6 +17,7 @@ Based in Brazil. Currently developing the **NCMA Systems** engineering lab and m
 | **Agent Governance Lab** | Small, runnable Python reference for authorize → act → observe → verify | [Source and tests](https://github.com/Ozzurac/agent-governance-lab) |
 | **NCMA Validation Patterns** | Safe error handling, regression detection and evidence-quality metrics | [Runnable Python](https://github.com/Ozzurac/ncma-validation-patterns) |
 | **Local LLM Benchmarking** | Qwen3.5-4B vs Ministral and Phi-4; latency, throughput, VRAM, completion and limits | [Benchmark case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/local-llm-benchmarking.md) |
+| **ML & Fine-tuning** | ASR domain adaptation, frozen holdouts, LoRA, export parity and regression gates | [Fine-tuning case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/fine-tuning-evaluation.md) · [ASR benchmark](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/asr-benchmarking.md) |
 
 ### Technical interests
 
