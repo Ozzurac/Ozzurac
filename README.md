@@ -15,6 +15,7 @@ Based in Brazil. Currently developing the **NCMA Systems** engineering lab and m
 | **ModForge V2** | Deterministic validation, mutation testing and external runtime verification | [Technical case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/modforge-v2.md) |
 | **NCMA MCP Gateway** | Bounded capabilities, least privilege, audit trails and explicit confirmation | [Technical case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/mcp-gateway.md) |
 | **Agent Governance Lab** | Small, runnable Python reference for authorize → act → observe → verify | [Source and tests](https://github.com/Ozzurac/agent-governance-lab) |
+| **NCMA Validation Patterns** | Safe error handling, regression detection and evidence-quality metrics | [Runnable Python](https://github.com/Ozzurac/ncma-validation-patterns) |
 
 ### Technical interests
 
