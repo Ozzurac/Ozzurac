@@ -11,9 +11,12 @@ Based in Brazil. Currently developing the **NCMA Systems** engineering lab and m
 | Project | Engineering focus | Public material |
 | --- | --- | --- |
 | **NCMA Engineering** | AI architecture, governed tools, observability and evidence-led delivery | [Project portfolio](https://github.com/Ozzurac/ncma-engineering) |
+| **NCMA Architecture Atlas** | Logical local/private/hosted boundaries, guarded execution, retrieval and verification (sanitized, not network topology) | [Five architecture diagrams](https://github.com/Ozzurac/ncma-engineering/tree/main/architecture) |
 | **Jarvis V2** | Local-first multimodal desktop agent, voice pipeline, model routing, controller-owned approvals | [Technical case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/jarvis-v2.md) |
 | **ModForge V2** | Deterministic validation, mutation testing and external runtime verification | [Technical case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/modforge-v2.md) |
 | **NCMA MCP Gateway** | Bounded capabilities, least privilege, audit trails and explicit confirmation | [Technical case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/mcp-gateway.md) |
+| **Knowledge Runtime** | Persistent evidence provenance, lexical/vector discovery and bounded retrieval authority | [Case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/knowledge-runtime.md) |
+| **Human Plane** | Human review, effective-state visibility and scoped owner settlement | [Case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/human-plane.md) |
 | **Agent Governance Lab** | Small, runnable Python reference for authorize → act → observe → verify | [Source and tests](https://github.com/Ozzurac/agent-governance-lab) |
 | **NCMA Validation Patterns** | Safe error handling, regression detection and evidence-quality metrics | [Runnable Python](https://github.com/Ozzurac/ncma-validation-patterns) |
 | **Local LLM Benchmarking** | Qwen3.5-4B vs Ministral and Phi-4; latency, throughput, VRAM, completion and limits | [Benchmark case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/local-llm-benchmarking.md) |
