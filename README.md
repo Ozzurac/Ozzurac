@@ -6,6 +6,8 @@ I build systems where models can reason, but software controls execution. My bac
 
 Based in Brazil. Currently developing the **NCMA Systems** engineering lab and moving my career toward AI systems engineering.
 
+[![NCMA Systems — Architecture as evidence, not decoration](https://raw.githubusercontent.com/Ozzurac/ncma-engineering/main/architecture/assets/atlas-cover.svg)](https://github.com/Ozzurac/ncma-engineering/tree/main/architecture)
+
 ### Selected work
 
 | Project | Engineering focus | Public material |
