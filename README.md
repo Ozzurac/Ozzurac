@@ -24,6 +24,15 @@ Based in Brazil. Currently developing the **NCMA Systems** engineering lab and m
 | **Local LLM Benchmarking** | Qwen3.5-4B vs Ministral and Phi-4; latency, throughput, VRAM, completion and limits | [Benchmark case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/local-llm-benchmarking.md) |
 | **ML & Fine-tuning** | ASR domain adaptation, frozen holdouts, LoRA, export parity and regression gates | [Fine-tuning case study](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/fine-tuning-evaluation.md) · [ASR benchmark](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/asr-benchmarking.md) |
 
+### Professional work (Accenture employment)
+
+The projects below describe **my engineering contributions during employment** and are documented separately from the independent NCMA Systems lab. The public versions are intentionally generalized and **not company-endorsed releases**.
+
+| Engineering case | Technical scope |
+| --- | --- |
+| [Operational Backlog Compliance](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/operational-backlog-compliance.md) | Python deterministic preprocessing, bounded AI review, validation and history |
+| [Evidence-Assisted Backlog Triage](https://github.com/Ozzurac/ncma-engineering/blob/main/projects/evidence-assisted-backlog-triage.md) | Evidence-aware retrieval, correlation, provenance and analyst-owned decisions |
+
 ### Technical interests
 
 `Python` · `LLM integration` · `Agentic AI` · `MCP` · `RAG / retrieval` · `ONNX Runtime` · `PyTorch` · `API integration` · `AIOps` · `CI and testing` · `Security boundaries` · `Observability`
